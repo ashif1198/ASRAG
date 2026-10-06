@@ -11,3 +11,12 @@ wheels/
 
 # Local secrets
 .env
+
+# typesense
+typesense_client_details.txt
+
+# books.jsonl file
+books.jsonl
+
+# text.txt
+text.txt
